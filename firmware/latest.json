@@ -1,6 +1,10 @@
 {
-    "version": "1.0.0.2",
-    "path": "v1.0.0.2/",
-    "firmware": "PinTIME-1.0.0.2.ptu",
-    "release_date": "2026-09-30"
+    "version": "1.0.2.0",
+    "firmware": "firmware/v1.0.2.0/PinTIME-Firmware-1.0.2.0.ptu",
+    "changelog": {
+        "de": "firmware/v1.0.2.0/changelog-de.txt",
+        "en": "firmware/v1.0.2.0/changelog-en.txt",
+        "fr": "firmware/v1.0.2.0/changelog-fr.txt",
+        "es": "firmware/v1.0.2.0/changelog-es.txt"
+    }
 }
