@@ -1,1 +1,15 @@
-Test
+PinTIME Firmware 1.0.2.0
+
+Test-Changelog
+
+• Neue Firmware-Update-Erkennung über GitHub.
+• Verbesserte Anzeige des Firmware-Status in der WebGUI.
+• Verfügbare Updates werden jetzt direkt auf der Hauptseite angezeigt.
+• Im System-Bereich können Informationen zur neuen Firmware angezeigt werden.
+• Unterstützung für lokalisierte Changelogs wurde hinzugefügt.
+• Kleinere Fehlerbehebungen und Stabilitätsverbesserungen.
+
+Test für Sonderzeichen:
+Ä Ö Ü ä ö ü ß
+
+Dies ist ein Test-Changelog für die neue PinTIME-Update-Funktion.
